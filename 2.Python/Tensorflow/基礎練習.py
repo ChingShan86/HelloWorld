@@ -1,8 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep  2 13:52:58 2017
-
-@author: ching shan
+使用tensorflow列印出 Hello, World!
 """
 
-print(10)
+import numpy as np
+import tensorflow as tf
+
+hello = tf.constant("Hello, World!")
+""" 方法一 (只會給出結構) """
+#print(hello)
+
+""" 方法二 """
+#sess = tf.Session()
+#print(sess.run(hello))
+
+""" 方法三 """
+with tf.Session() as sess:
+    print(sess.run(hello))
