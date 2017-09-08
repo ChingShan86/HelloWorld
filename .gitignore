@@ -23,3 +23,10 @@
 2.Python/Tensorflow/data/CIFAR10_data/cifar-10-batches-py/data_batch_4
 2.Python/Tensorflow/data/CIFAR10_data/cifar-10-batches-py/data_batch_5
 2.Python/Tensorflow/data/CIFAR10_data/cifar-10-batches-py/test_batch
+2.Python/Tensorflow/data/my_net/checkpoint
+2.Python/Tensorflow/hands_train.tfrecords
+2.Python/Tensorflow/test.bin
+2.Python/Tensorflow/test.tfrecords
+2.Python/Tensorflow/train.bin
+2.Python/Tensorflow/train.tfrecords
+2.Python/Tensorflow/data/HANDS_data/b.gi
